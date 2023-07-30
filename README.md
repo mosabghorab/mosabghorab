@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1>Mosab Ghorab - Flutter Developer</h1>
+  <h1>Dev.Mosab Ghorab - Experienced Flutter Developer</h1>
 </head>
 <body>
 
@@ -37,16 +37,10 @@
      
   </ul>
 
-  <h2>Achievements</h2>
-
-  <ul>
-    <li>Mention any Flutter-related certifications or achievements.</li>
-  </ul>
-
   <h2>Contact</h2>
 
-  <p>
-    🌎 Feel free to connect with me on <a href="your-linkedin-profile">LinkedIn</a> or shoot me an <a href="mailto:your-email@example.com">email</a>. I'm always open to new opportunities and exciting projects.
+<p>
+    🌎 Feel free to connect with me on <a href="your-linkedin-profile">LinkedIn</a> or shoot me an <a href="mailto:your-email@example.com">email</a>. You can also reach out to me on WhatsApp: <a href="https://wa.me/+970592510826">+970592510826</a>. I'm always open to new opportunities and exciting projects.
   </p>
 
   <h2>Let's Create Something Extraordinary Together! 🤝</h2>
