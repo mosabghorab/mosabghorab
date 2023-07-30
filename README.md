@@ -8,6 +8,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
+  <title>Dev.Mosab Ghorab - Experienced Flutter Developer</title>
   <style>
     @keyframes bounceIn {
       0% {
@@ -28,7 +30,6 @@
       animation: bounceIn 1s ease-in-out;
     }
   </style>
-  <title>Dev.Mosab Ghorab - Experienced Flutter Developer</title>
 </head>
 <body>
 
