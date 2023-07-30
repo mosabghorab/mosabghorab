@@ -5,6 +5,54 @@
 </head>
 <body>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes bounceIn {
+      0% {
+        transform: scale(0.1);
+        opacity: 0;
+      }
+      60% {
+        transform: scale(1.2);
+        opacity: 1;
+      }
+      100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    h2.about-me {
+      animation: bounceIn 1s ease-in-out;
+    }
+  </style>
+  <title>Dev.Mosab Ghorab - Experienced Flutter Developer</title>
+</head>
+<body>
+
+  <h1>Hi there, I'm Mosab Ghorab! 👋</h1>
+
+  <p><strong>🚀 Flutter Developer | Over 3 Years of Experience 📱✨</strong></p>
+
+  <!-- Add a lovely gif here -->
+  <img src="https://example.com/your-lovely-gif.gif" alt="Flutter Gif">
+
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
+
+  <h2 class="about-me">About Me</h2>
+
+  <p>
+    I'm a seasoned Flutter developer with a passion for crafting top-notch mobile applications. With over 3 years of experience in Flutter, I am committed to delivering seamless cross-platform experiences for both iOS and Android.
+  </p>
+
+  <!-- Rest of the README content -->
+
+</body>
+</html>
+
+
   <h1>Hi there, I'm Mosab Ghorab! 👋</h1>
 
   <p><strong>🚀 Flutter Developer | Over 3 Years of Experience 📱✨</strong></p>
