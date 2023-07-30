@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mosab Ghorab - Flutter Developer</title>
+  <h1>Mosab Ghorab - Flutter Developer</h1>
 </head>
 <body>
 
@@ -20,28 +20,22 @@
   <h2>Skills</h2>
 
   <ul>
-    <li>Flutter</li>
-    <li>Dart</li>
-    <li>UI/UX Design</li>
-    <li>API Integration</li>
-    <li>Git</li>
+    <li>Complex UI.</li>
+    <li>SQLite database.</li>
+    <li>Google Maps (real-time tracking, places, geocoding, directions .... etc).</li>
+    <li>Firebase(Auth , Firestore , Messaging , Dynamic links , OTP Verification .....etc).</li>
+    <li>Real-time chatting.</li>
+    <li>API integration (with HTTP and Dio packages).</li>
+    <li>payments gateway integration (Stripe, PayPal....etc).</li>
+    <li>push notifications.</li>
+    <li>state management (provider, getx....etc).</li>
+    <li>clean code.</li>
+    <li>publishing apps on google play and app store.</li>
+    <li>Socket Io, Pusher.</li>
+    <li>Social Login (Login with google, login with Facebook... etc).</li>
+    <li>Animations Packages. </li>
+     
   </ul>
-
-  <h2>Projects</h2>
-
-  <h3>Project 1: <a href="link-to-repo">Project Name</a></h3>
-
-  <p>
-    A brief description of your project. What it does, technologies used, and any unique features.
-  </p>
-
-  <h3>Project 2: <a href="link-to-repo">Project Name</a></h3>
-
-  <p>
-    A brief description of your project. What it does, technologies used, and any unique features.
-  </p>
-
-  <!-- Add more projects -->
 
   <h2>Achievements</h2>
 
